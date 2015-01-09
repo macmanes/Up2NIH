@@ -1,0 +1,587 @@
+\begin{thebibliography}{51}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{DOI:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{PMCID:}
+\providecommand{\doi}[1]{#1}
+\providecommand{\Pubmed}[1]{#1}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Arsenijevic and Baertschi(1985)}]{Arsenijevic:1985bi}
+\bibinfo{author}{Arsenijevic, Y.}, \bibinfo{author}{Baertschi, A.J.},
+  \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{{Activation of the hypothalamo-neurohypophysial
+  system by hypertonic superfusion of the rat mesentery}}.
+\newblock \bibinfo{journal}{Brain Research} \bibinfo{volume}{347},
+  \bibinfo{pages}{169--172}.
+%Type = Article
+\bibitem[{Au et~al.(2013)Au, Sebastiano, Afshar, Durruthy, Lee, Williams, van
+  Bakel, Schadt, Reijo-Pera, Underwood and Wong}]{Au:2013hp}
+\bibinfo{author}{Au, K.F.}, \bibinfo{author}{Sebastiano, V.},
+  \bibinfo{author}{Afshar, P.T.}, \bibinfo{author}{Durruthy, J.D.},
+  \bibinfo{author}{Lee, L.}, \bibinfo{author}{Williams, B.A.},
+  \bibinfo{author}{van Bakel, H.}, \bibinfo{author}{Schadt, E.E.},
+  \bibinfo{author}{Reijo-Pera, R.A.}, \bibinfo{author}{Underwood, J.G.},
+  \bibinfo{author}{Wong, W.H.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Characterization of the human ESC transcriptome by
+  hybrid sequencing.}}
+\newblock \bibinfo{journal}{PNAS} \bibinfo{volume}{110},
+  \bibinfo{pages}{201320101--30}.
+%Type = Article
+\bibitem[{Au et~al.(2012)Au, Underwood, Lee and Wong}]{Au:2012iq}
+\bibinfo{author}{Au, K.F.}, \bibinfo{author}{Underwood, J.G.},
+  \bibinfo{author}{Lee, L.}, \bibinfo{author}{Wong, W.H.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Improving pacbio long read accuracy by short read
+  alignment}}.
+\newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{7},
+  \bibinfo{pages}{e46679}.
+%Type = Article
+\bibitem[{Bartolo and Donald(2007)}]{Bartolo:2007hy}
+\bibinfo{author}{Bartolo, R.C.}, \bibinfo{author}{Donald, J.A.},
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{{The distribution of renal hyaluronan and the
+  expression of hyaluronan synthases during water deprivation in the Spinifex
+  hopping mouse, \textit{Notomys alexis}.}}
+\newblock \bibinfo{journal}{Comparative Biochemistry and Physiology}
+  \bibinfo{volume}{148}, \bibinfo{pages}{853--860}.
+%Type = Article
+\bibitem[{Berger et~al.(2011)Berger, Guetta, Klorin, Badarneh, Braun, Brod,
+  Saleh, Katz, Bitterman and Azzam}]{Berger:2011ks}
+\bibinfo{author}{Berger, G.}, \bibinfo{author}{Guetta, J.},
+  \bibinfo{author}{Klorin, G.}, \bibinfo{author}{Badarneh, R.},
+  \bibinfo{author}{Braun, E.}, \bibinfo{author}{Brod, V.},
+  \bibinfo{author}{Saleh, N.A.}, \bibinfo{author}{Katz, A.},
+  \bibinfo{author}{Bitterman, H.}, \bibinfo{author}{Azzam, Z.S.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{Sepsis impairs alveolar epithelial function by
+  downregulating Na-K-ATPase pump}}.
+\newblock \bibinfo{journal}{AJP: Lung Cellular and Molecular Physiology}
+  \bibinfo{volume}{301}, \bibinfo{pages}{L23--L30}.
+%Type = Article
+\bibitem[{B{\"o}selt et~al.(2009)B{\"o}selt, R{\"o}mpler, Hermsdorf, Thor,
+  Busch, Schulz and Sch{\"o}neberg}]{Boselt:2009fb}
+\bibinfo{author}{B{\"o}selt, I.}, \bibinfo{author}{R{\"o}mpler, H.},
+  \bibinfo{author}{Hermsdorf, T.}, \bibinfo{author}{Thor, D.},
+  \bibinfo{author}{Busch, W.}, \bibinfo{author}{Schulz, A.},
+  \bibinfo{author}{Sch{\"o}neberg, T.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Involvement of the V2 vasopressin receptor in
+  adaptation to limited water supply.}}
+\newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{4},
+  \bibinfo{pages}{e5573}.
+%Type = Article
+\bibitem[{Bozinovic et~al.(2003)Bozinovic, Gallardo, Visser and
+  Cort{\'e}s}]{Bozinovic:2003eg}
+\bibinfo{author}{Bozinovic, F.}, \bibinfo{author}{Gallardo, P.A.},
+  \bibinfo{author}{Visser, G.H.}, \bibinfo{author}{Cort{\'e}s, A.},
+  \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{{Seasonal acclimatization in water flux rate, urine
+  osmolality and kidney water channels in free-living degus: Molecular
+  mechanisms, physiological processes and ecological implications}}.
+\newblock \bibinfo{journal}{Journal of Experimental Biology}
+  \bibinfo{volume}{206}, \bibinfo{pages}{2959--2966}.
+%Type = Article
+\bibitem[{Bradnam et~al.(2013)Bradnam, Fass, Alexandrov, Baranay, Bechner,
+  Birol, Boisvert, Chapman, Chapuis, Chikhi, Chitsaz, Chou, Corbeil,
+  Del~Fabbro, Docking, Durbin, Earl, Emrich, Fedotov, Fonseca, Ganapathy,
+  Gibbs, Gnerre, Godzaridis, Goldstein, Haimel, Hall, Haussler, Hiatt, Ho,
+  Howard, Hunt, Jackman, Jaffe, Jarvis, Jiang, Kazakov, Kersey, Kitzman,
+  Knight, Koren, Lam, Lavenier, Laviolette, Li, Li, Liu, Liu, Luo, Maccallum,
+  \textbf{MacManes}, Maillet, Melnikov, Naquin, Ning, Otto, Paten, Paulo,
+  Phillippy, Pina-Martins, Place, Przybylski, Qin, Qu, Ribeiro, Richards,
+  Rokhsar, Ruby, Scalabrin, Schatz, Schwartz, Sergushichev, Sharpe, Shaw,
+  Shendure, Shi, Simpson, Song, Tsarev, Vezzi, Vicedomini, Vieira, Wang,
+  Worley, Yin, Yiu, Yuan, Zhang, Zhang, Zhou and Korf}]{Bradnam:2013gx}
+\bibinfo{author}{Bradnam, K.R.}, \bibinfo{author}{Fass, J.N.},
+  \bibinfo{author}{Alexandrov, A.}, \bibinfo{author}{Baranay, P.},
+  \bibinfo{author}{Bechner, M.}, \bibinfo{author}{Birol, I.},
+  \bibinfo{author}{Boisvert, S.}, \bibinfo{author}{Chapman, J.A.},
+  \bibinfo{author}{Chapuis, G.}, \bibinfo{author}{Chikhi, R.},
+  \bibinfo{author}{Chitsaz, H.}, \bibinfo{author}{Chou, W.C.},
+  \bibinfo{author}{Corbeil, J.}, \bibinfo{author}{Del~Fabbro, C.},
+  \bibinfo{author}{Docking, T.R.}, \bibinfo{author}{Durbin, R.},
+  \bibinfo{author}{Earl, D.}, \bibinfo{author}{Emrich, S.},
+  \bibinfo{author}{Fedotov, P.}, \bibinfo{author}{Fonseca, N.A.},
+  \bibinfo{author}{Ganapathy, G.}, \bibinfo{author}{Gibbs, R.A.},
+  \bibinfo{author}{Gnerre, S.}, \bibinfo{author}{Godzaridis, E.},
+  \bibinfo{author}{Goldstein, S.}, \bibinfo{author}{Haimel, M.},
+  \bibinfo{author}{Hall, G.}, \bibinfo{author}{Haussler, D.},
+  \bibinfo{author}{Hiatt, J.B.}, \bibinfo{author}{Ho, I.Y.},
+  \bibinfo{author}{Howard, J.}, \bibinfo{author}{Hunt, M.},
+  \bibinfo{author}{Jackman, S.D.}, \bibinfo{author}{Jaffe, D.B.},
+  \bibinfo{author}{Jarvis, E.}, \bibinfo{author}{Jiang, H.},
+  \bibinfo{author}{Kazakov, S.}, \bibinfo{author}{Kersey, P.J.},
+  \bibinfo{author}{Kitzman, J.O.}, \bibinfo{author}{Knight, J.R.},
+  \bibinfo{author}{Koren, S.}, \bibinfo{author}{Lam, T.W.},
+  \bibinfo{author}{Lavenier, D.}, \bibinfo{author}{Laviolette, F.},
+  \bibinfo{author}{Li, Y.}, \bibinfo{author}{Li, Z.}, \bibinfo{author}{Liu,
+  B.}, \bibinfo{author}{Liu, Y.}, \bibinfo{author}{Luo, R.},
+  \bibinfo{author}{Maccallum, I.}, \bibinfo{author}{\textbf{MacManes}, M.D.},
+  \bibinfo{author}{Maillet, N.}, \bibinfo{author}{Melnikov, S.},
+  \bibinfo{author}{Naquin, D.}, \bibinfo{author}{Ning, Z.},
+  \bibinfo{author}{Otto, T.D.}, \bibinfo{author}{Paten, B.},
+  \bibinfo{author}{Paulo, O.S.}, \bibinfo{author}{Phillippy, A.M.},
+  \bibinfo{author}{Pina-Martins, F.}, \bibinfo{author}{Place, M.},
+  \bibinfo{author}{Przybylski, D.}, \bibinfo{author}{Qin, X.},
+  \bibinfo{author}{Qu, C.}, \bibinfo{author}{Ribeiro, F.J.},
+  \bibinfo{author}{Richards, S.}, \bibinfo{author}{Rokhsar, D.S.},
+  \bibinfo{author}{Ruby, J.G.}, \bibinfo{author}{Scalabrin, S.},
+  \bibinfo{author}{Schatz, M.C.}, \bibinfo{author}{Schwartz, D.C.},
+  \bibinfo{author}{Sergushichev, A.}, \bibinfo{author}{Sharpe, T.},
+  \bibinfo{author}{Shaw, T.I.}, \bibinfo{author}{Shendure, J.},
+  \bibinfo{author}{Shi, Y.}, \bibinfo{author}{Simpson, J.T.},
+  \bibinfo{author}{Song, H.}, \bibinfo{author}{Tsarev, F.},
+  \bibinfo{author}{Vezzi, F.}, \bibinfo{author}{Vicedomini, R.},
+  \bibinfo{author}{Vieira, B.M.}, \bibinfo{author}{Wang, J.},
+  \bibinfo{author}{Worley, K.C.}, \bibinfo{author}{Yin, S.},
+  \bibinfo{author}{Yiu, S.M.}, \bibinfo{author}{Yuan, J.},
+  \bibinfo{author}{Zhang, G.}, \bibinfo{author}{Zhang, H.},
+  \bibinfo{author}{Zhou, S.}, \bibinfo{author}{Korf, I.F.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Assemblathon 2: evaluating \textit{de novo} methods
+  of genome assembly in three vertebrate species.}}
+\newblock \bibinfo{journal}{GigaScience} \bibinfo{volume}{2},
+  \bibinfo{pages}{10}.
+%Type = Article
+\bibitem[{Brenet et~al.(2011)Brenet, Moh, Funk, Feierstein, Viale, Socci and
+  Scandura}]{Brenet:2011dq}
+\bibinfo{author}{Brenet, F.}, \bibinfo{author}{Moh, M.}, \bibinfo{author}{Funk,
+  P.}, \bibinfo{author}{Feierstein, E.}, \bibinfo{author}{Viale, A.J.},
+  \bibinfo{author}{Socci, N.D.}, \bibinfo{author}{Scandura, J.M.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{DNA methylation of the first exon is tightly linked
+  to transcriptional silencing}}.
+\newblock \bibinfo{journal}{PLOS ONE} \bibinfo{volume}{6},
+  \bibinfo{pages}{e14524}.
+%Type = Article
+\bibitem[{Brown et~al.(1995)Brown, Katsura, Kawashima, Verkman and
+  Sabolic}]{Brown:1995vo}
+\bibinfo{author}{Brown, D.}, \bibinfo{author}{Katsura, T.},
+  \bibinfo{author}{Kawashima, M.}, \bibinfo{author}{Verkman, A.S.},
+  \bibinfo{author}{Sabolic, I.}, \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{{Cellular distribution of the aquaporins: A family of
+  water channel proteins}}.
+\newblock \bibinfo{journal}{Histochemistry and Cell Biology}
+  \bibinfo{volume}{104}, \bibinfo{pages}{1--9}.
+%Type = Article
+\bibitem[{Cheuvront et~al.(2010)Cheuvront, Kenefick, Montain and
+  Sawka}]{Cheuvront:2010eg}
+\bibinfo{author}{Cheuvront, S.N.}, \bibinfo{author}{Kenefick, R.W.},
+  \bibinfo{author}{Montain, S.J.}, \bibinfo{author}{Sawka, M.N.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Mechanisms of aerobic performance impairment with
+  heat stress and dehydration.}}
+\newblock \bibinfo{journal}{Journal of Applied Physiology}
+  \bibinfo{volume}{109}, \bibinfo{pages}{1989--1995}.
+%Type = Article
+\bibitem[{Eid et~al.(2009)Eid, Fehr, Gray, Luong, Lyle, Otto, Peluso, Rank,
+  Baybayan, Bettman, Bibillo, Bjornson, Chaudhuri, Christians, Cicero, Clark,
+  Dalal, deWinter, Dixon, Foquet, Gaertner, Hardenbol, Heiner, Hester, Holden,
+  Kearns, Kong, Kuse, Lacroix, Lin, Lundquist, Ma, Marks, Maxham, Murphy, Park,
+  Pham, Phillips, Roy, Sebra, Shen, Sorenson, Tomaney, Travers, Trulson,
+  Vieceli, Wegener, Wu, Yang, Zaccarin, Zhao, Zhong, Korlach and
+  Turner}]{Eid:2009kva}
+\bibinfo{author}{Eid, J.}, \bibinfo{author}{Fehr, A.}, \bibinfo{author}{Gray,
+  J.}, \bibinfo{author}{Luong, K.}, \bibinfo{author}{Lyle, J.},
+  \bibinfo{author}{Otto, G.}, \bibinfo{author}{Peluso, P.},
+  \bibinfo{author}{Rank, D.}, \bibinfo{author}{Baybayan, P.},
+  \bibinfo{author}{Bettman, B.}, \bibinfo{author}{Bibillo, A.},
+  \bibinfo{author}{Bjornson, K.}, \bibinfo{author}{Chaudhuri, B.},
+  \bibinfo{author}{Christians, F.}, \bibinfo{author}{Cicero, R.},
+  \bibinfo{author}{Clark, S.}, \bibinfo{author}{Dalal, R.},
+  \bibinfo{author}{deWinter, A.}, \bibinfo{author}{Dixon, J.},
+  \bibinfo{author}{Foquet, M.}, \bibinfo{author}{Gaertner, A.},
+  \bibinfo{author}{Hardenbol, P.}, \bibinfo{author}{Heiner, C.},
+  \bibinfo{author}{Hester, K.}, \bibinfo{author}{Holden, D.},
+  \bibinfo{author}{Kearns, G.}, \bibinfo{author}{Kong, X.},
+  \bibinfo{author}{Kuse, R.}, \bibinfo{author}{Lacroix, Y.},
+  \bibinfo{author}{Lin, S.}, \bibinfo{author}{Lundquist, P.},
+  \bibinfo{author}{Ma, C.}, \bibinfo{author}{Marks, P.},
+  \bibinfo{author}{Maxham, M.}, \bibinfo{author}{Murphy, D.},
+  \bibinfo{author}{Park, I.}, \bibinfo{author}{Pham, T.},
+  \bibinfo{author}{Phillips, M.}, \bibinfo{author}{Roy, J.},
+  \bibinfo{author}{Sebra, R.}, \bibinfo{author}{Shen, G.},
+  \bibinfo{author}{Sorenson, J.}, \bibinfo{author}{Tomaney, A.},
+  \bibinfo{author}{Travers, K.}, \bibinfo{author}{Trulson, M.},
+  \bibinfo{author}{Vieceli, J.}, \bibinfo{author}{Wegener, J.},
+  \bibinfo{author}{Wu, D.}, \bibinfo{author}{Yang, A.},
+  \bibinfo{author}{Zaccarin, D.}, \bibinfo{author}{Zhao, P.},
+  \bibinfo{author}{Zhong, F.}, \bibinfo{author}{Korlach, J.},
+  \bibinfo{author}{Turner, S.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Real-time DNA sequencing from single polymerase
+  molecules.}}
+\newblock \bibinfo{journal}{Science} \bibinfo{volume}{323},
+  \bibinfo{pages}{133--138}.
+%Type = Article
+\bibitem[{Foret et~al.(2012)Foret, Kucharski, Pellegrini, Pellegrini, Feng,
+  Feng, Jacobsen, Jacobsen, Robinson and Maleszka}]{Foret:2012jf}
+\bibinfo{author}{Foret, S.}, \bibinfo{author}{Kucharski, R.},
+  \bibinfo{author}{Pellegrini, M.}, \bibinfo{author}{Pellegrini, M.},
+  \bibinfo{author}{Feng, S.}, \bibinfo{author}{Feng, S.},
+  \bibinfo{author}{Jacobsen, S.E.}, \bibinfo{author}{Jacobsen, S.E.},
+  \bibinfo{author}{Robinson, G.E.}, \bibinfo{author}{Maleszka, R.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{DNA methylation dynamics, metabolic fluxes, gene
+  splicing, and alternative phenotypes in honey bees.}}
+\newblock \bibinfo{journal}{Proceedings of the National Academy of Sciences}
+  \bibinfo{volume}{109}, \bibinfo{pages}{4968--4973}.
+%Type = Article
+\bibitem[{Gallardo et~al.(2005)Gallardo, Cort{\'e}s and
+  Bozinovic}]{Gallardo:2005fm}
+\bibinfo{author}{Gallardo, P.A.}, \bibinfo{author}{Cort{\'e}s, A.},
+  \bibinfo{author}{Bozinovic, F.}, \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{Phenotypic flexibility at the molecular and
+  organismal level allows desert-dwelling rodents to cope with seasonal water
+  availability.}}
+\newblock \bibinfo{journal}{Physiological and Biochemical Zoology}
+  \bibinfo{volume}{78}, \bibinfo{pages}{145--152}.
+%Type = Article
+\bibitem[{Goralski et~al.(2010)Goralski, Boucher and Button}]{Goralski:2010eo}
+\bibinfo{author}{Goralski, J.L.}, \bibinfo{author}{Boucher, R.C.},
+  \bibinfo{author}{Button, B.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Osmolytes and ion transport modulators: new
+  strategies for airway surface rehydration}}.
+\newblock \bibinfo{journal}{Current Opinion in Pharmacology}
+  \bibinfo{volume}{10}, \bibinfo{pages}{294--299}.
+%Type = Article
+\bibitem[{Gubler and Antignac(2009)}]{Gubler:2010bh}
+\bibinfo{author}{Gubler, M.C.}, \bibinfo{author}{Antignac, C.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Renin{\textendash}angiotensin system in kidney
+  development: renal tubular dysgenesis}}.
+\newblock \bibinfo{journal}{Kidney International} \bibinfo{volume}{77},
+  \bibinfo{pages}{400--406}.
+%Type = Article
+\bibitem[{Haas et~al.(2013)Haas, Papanicolaou, Yassour, Grabherr, Blood,
+  Bowden, Couger, Eccles, Li, Lieber, MacManes, Ott, Orvis, Pochet, Strozzi,
+  Weeks, Westerman, William, Dewey, Henschel, Leduc, Friedman and
+  Regev}]{Haas:2013jq}
+\bibinfo{author}{Haas, B.J.}, \bibinfo{author}{Papanicolaou, A.},
+  \bibinfo{author}{Yassour, M.}, \bibinfo{author}{Grabherr, M.},
+  \bibinfo{author}{Blood, P.D.}, \bibinfo{author}{Bowden, J.},
+  \bibinfo{author}{Couger, M.B.}, \bibinfo{author}{Eccles, D.},
+  \bibinfo{author}{Li, B.}, \bibinfo{author}{Lieber, M.},
+  \bibinfo{author}{MacManes, M.D.}, \bibinfo{author}{Ott, M.},
+  \bibinfo{author}{Orvis, J.}, \bibinfo{author}{Pochet, N.},
+  \bibinfo{author}{Strozzi, F.}, \bibinfo{author}{Weeks, N.},
+  \bibinfo{author}{Westerman, R.}, \bibinfo{author}{William, T.},
+  \bibinfo{author}{Dewey, C.N.}, \bibinfo{author}{Henschel, R.},
+  \bibinfo{author}{Leduc, R.D.}, \bibinfo{author}{Friedman, N.},
+  \bibinfo{author}{Regev, A.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{\textit{De novo} transcript sequence reconstruction
+  from RNA-seq using the Trinity platform for reference generation and
+  analysis.}}
+\newblock \bibinfo{journal}{Nature Protocols} \bibinfo{volume}{8},
+  \bibinfo{pages}{1494--1512}.
+%Type = Article
+\bibitem[{Haussinger(1996)}]{Haussinger:1996wl}
+\bibinfo{author}{Haussinger, D.}, \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{{The role of cellular hydration in the regulation of
+  cell function.}}
+\newblock \bibinfo{journal}{The Biochemical Journal} \bibinfo{volume}{313 ( Pt
+  3)}, \bibinfo{pages}{697--710}.
+%Type = Article
+\bibitem[{Hiller et~al.(2009)Hiller, Jiang, Xu and Wong}]{Hiller:2009be}
+\bibinfo{author}{Hiller, D.}, \bibinfo{author}{Jiang, H.}, \bibinfo{author}{Xu,
+  W.}, \bibinfo{author}{Wong, W.H.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Identifiability of isoform deconvolution from
+  junction arrays and RNA-Seq.}}
+\newblock \bibinfo{journal}{Bioinformatics} \bibinfo{volume}{25},
+  \bibinfo{pages}{3056--3059}.
+%Type = Article
+\bibitem[{Huang et~al.(2001)Huang, Tracy, Walsberg, Makkinje, Fang, Brown and
+  Van~Hoek}]{Huang:2001ti}
+\bibinfo{author}{Huang, Y.}, \bibinfo{author}{Tracy, R.},
+  \bibinfo{author}{Walsberg, G.E.}, \bibinfo{author}{Makkinje, A.},
+  \bibinfo{author}{Fang, P.}, \bibinfo{author}{Brown, D.},
+  \bibinfo{author}{Van~Hoek, A.N.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{{Absence of aquaporin-4 water channels from kidneys
+  of the desert rodent \textit{Dipodomys} \textit{merriami}
+  \textit{merriami}}}.
+\newblock \bibinfo{journal}{American Journal of Physiology-Renal Physiology}
+  \bibinfo{volume}{280}, \bibinfo{pages}{F794--F802}.
+%Type = Article
+\bibitem[{J{\'e}quier and Constant(2009)}]{Jequier:2009cz}
+\bibinfo{author}{J{\'e}quier, E.}, \bibinfo{author}{Constant, F.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Water as an essential nutrient: the physiological
+  basis of hydration}}.
+\newblock \bibinfo{journal}{European Journal of Clinical Nutrition}
+  \bibinfo{volume}{64}, \bibinfo{pages}{115--123}.
+%Type = Article
+\bibitem[{Jiang and Wong(2009)}]{Jiang:2009bw}
+\bibinfo{author}{Jiang, H.}, \bibinfo{author}{Wong, W.H.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Statistical inferences for isoform expression in
+  RNA-Seq}}.
+\newblock \bibinfo{journal}{Bioinformatics} \bibinfo{volume}{25},
+  \bibinfo{pages}{1026--1032}.
+%Type = Article
+\bibitem[{Kwon et~al.(2009)Kwon, Nielsen, M{\o}ller, Fenton, Nielsen and
+  Fr{\o}kiaer}]{Kwon:2009bv}
+\bibinfo{author}{Kwon, T.H.}, \bibinfo{author}{Nielsen, J.},
+  \bibinfo{author}{M{\o}ller, H.B.}, \bibinfo{author}{Fenton, R.A.},
+  \bibinfo{author}{Nielsen, S.}, \bibinfo{author}{Fr{\o}kiaer, J.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Aquaporins in the kidney.}}
+\newblock \bibinfo{journal}{Handbook of Experimental Pharmacology}
+  \bibinfo{volume}{190}, \bibinfo{pages}{95--132}.
+%Type = Article
+\bibitem[{Langfelder and Horvath(2008)}]{Langfelder:2008bd}
+\bibinfo{author}{Langfelder, P.}, \bibinfo{author}{Horvath, S.},
+  \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{{WGCNA: an R package for weighted correlation network
+  analysis}}.
+\newblock \bibinfo{journal}{BMC Bioinformatics} \bibinfo{volume}{9},
+  \bibinfo{pages}{559}.
+%Type = Article
+\bibitem[{LeGault and Dewey(2013)}]{LeGault:2013gw}
+\bibinfo{author}{LeGault, L.H.}, \bibinfo{author}{Dewey, C.N.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Inference of alternative splicing from RNA-Seq data
+  with probabilistic splice graphs.}}
+\newblock \bibinfo{journal}{Bioinformatics} \bibinfo{volume}{29},
+  \bibinfo{pages}{2300--2310}.
+%Type = Article
+\bibitem[{Li(2013)}]{Li:2013wn}
+\bibinfo{author}{Li, H.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Aligning sequence reads, clone sequences and
+  assembly contigs with BWA-MEM}}.
+\newblock \bibinfo{journal}{arXiv.org}
+  \href{http://arxiv.org/abs/5055055027372173530related:2iiSusMpJ0YJ}{\tt
+  arXiv:5055055027372173530related:2iiSusMpJ0YJ}.
+%Type = Article
+\bibitem[{Lyko et~al.(2010)Lyko, Foret, Kucharski, Wolf, Falckenhayn and
+  Maleszka}]{Lyko:2010dr}
+\bibinfo{author}{Lyko, F.}, \bibinfo{author}{Foret, S.},
+  \bibinfo{author}{Kucharski, R.}, \bibinfo{author}{Wolf, S.},
+  \bibinfo{author}{Falckenhayn, C.}, \bibinfo{author}{Maleszka, R.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{The Honey Bee Epigenomes: Differential Methylation
+  of Brain DNA in Queens and Workers}}.
+\newblock \bibinfo{journal}{PLOS Biology} \bibinfo{volume}{8},
+  \bibinfo{pages}{e1000506}.
+%Type = Article
+\bibitem[{MacManes(2014)}]{MacManes:2014io}
+\bibinfo{author}{MacManes, M.D.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{{On the optimal trimming of high-throughput mRNA
+  sequence data}}.
+\newblock \bibinfo{journal}{Frontiers in Genetics} \bibinfo{volume}{5}.
+%Type = Article
+\bibitem[{Moeller et~al.(2009)Moeller, MacAulay, Knepper and
+  Fenton}]{Anonymous:2009gb}
+\bibinfo{author}{Moeller, H.B.}, \bibinfo{author}{MacAulay, N.},
+  \bibinfo{author}{Knepper, M.A.}, \bibinfo{author}{Fenton, R.A.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Role of multiple phosphorylation sites in the
+  COOH-terminal tail of aquaporin-2 for water transport: evidence against
+  channel gating.}}
+\newblock \bibinfo{journal}{American Journal of Physiology-Renal Physiology}
+  \bibinfo{volume}{296}, \bibinfo{pages}{F649--57}.
+%Type = Article
+\bibitem[{Montain et~al.(1999)Montain, Latzka and Sawka}]{Montain:1999ux}
+\bibinfo{author}{Montain, S.}, \bibinfo{author}{Latzka, W.},
+  \bibinfo{author}{Sawka, N.}, \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{{Fluid replacement recommendations for training in
+  hot weather.}}
+\newblock \bibinfo{journal}{Military medicine} \bibinfo{volume}{164},
+  \bibinfo{pages}{502--508}.
+%Type = Article
+\bibitem[{Nagy and Gruchacz(1994)}]{NAGY:1994ta}
+\bibinfo{author}{Nagy, K.}, \bibinfo{author}{Gruchacz, M.},
+  \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{Seasonal Water and Energy-Metabolism of the
+  Desert-Dwelling Kangaroo Rat (\emph{\textit{Dipodomys} \textit{merriami}})}}.
+\newblock \bibinfo{journal}{Physiological Zoology} \bibinfo{volume}{67},
+  \bibinfo{pages}{1461--1478}.
+%Type = Article
+\bibitem[{Nielsen and Agre(1995)}]{Nielsen:1995cb}
+\bibinfo{author}{Nielsen, S.}, \bibinfo{author}{Agre, P.},
+  \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{{The aquaporin family of water channels in kidney}}.
+\newblock \bibinfo{journal}{Kidney International} \bibinfo{volume}{48},
+  \bibinfo{pages}{1057--1068}.
+%Type = Article
+\bibitem[{Nielsen et~al.(1995)Nielsen, Chou, Marples, Christensen, Kishore and
+  Knepper}]{Nielsen:1995uq}
+\bibinfo{author}{Nielsen, S.}, \bibinfo{author}{Chou, C.},
+  \bibinfo{author}{Marples, D.}, \bibinfo{author}{Christensen, E.},
+  \bibinfo{author}{Kishore, B.}, \bibinfo{author}{Knepper, M.},
+  \bibinfo{year}{1995}.
+\newblock \bibinfo{title}{{Vasopressin increases water permeability of kidney
+  collecting duct by inducing translocation of aquaporin-CD water channels to
+  plasma-membrane}}.
+\newblock \bibinfo{journal}{Proceedings of The National Academy of Sciences of
+  The United States of America} \bibinfo{volume}{92},
+  \bibinfo{pages}{1013--1017}.
+%Type = Article
+\bibitem[{Ortells et~al.(2012)Ortells, Morancho, Drews-Elger, Viollet,
+  Laderoute, Lopez-Rodriguez and Aramburu}]{Ortells:2012go}
+\bibinfo{author}{Ortells, M.C.}, \bibinfo{author}{Morancho, B.},
+  \bibinfo{author}{Drews-Elger, K.}, \bibinfo{author}{Viollet, B.},
+  \bibinfo{author}{Laderoute, K.R.}, \bibinfo{author}{Lopez-Rodriguez, C.},
+  \bibinfo{author}{Aramburu, J.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Transcriptional regulation of gene expression during
+  osmotic stress responses by the mammalian target of rapamycin}}.
+\newblock \bibinfo{journal}{Nucleic Acids Research} \bibinfo{volume}{40},
+  \bibinfo{pages}{4368--4384}.
+%Type = Article
+\bibitem[{Pyrkosz et~al.(2013)Pyrkosz, Cheng and Brown}]{Pyrkosz:2013tm}
+\bibinfo{author}{Pyrkosz, A.B.}, \bibinfo{author}{Cheng, H.},
+  \bibinfo{author}{Brown, C.T.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{RNA-Seq Mapping Errors When Using Incomplete
+  Reference Transcriptomes of Vertebrates}}.
+\newblock \bibinfo{journal}{arXiv.org}
+  \href{http://arxiv.org/abs/1303.2411v1}{\tt arXiv:1303.2411v1}.
+%Type = Article
+\bibitem[{Roberts and Pachter(2013)}]{Roberts:2012dh}
+\bibinfo{author}{Roberts, A.}, \bibinfo{author}{Pachter, L.},
+  \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Streaming fragment assignment for real-time analysis
+  of sequencing experiments.}}
+\newblock \bibinfo{journal}{Nature Methods} \bibinfo{volume}{10},
+  \bibinfo{pages}{71--73}.
+%Type = Article
+\bibitem[{Roberts et~al.(2010)Roberts, Pope, Newson, Lolait and
+  O{\textquoteright}Carroll}]{Roberts:2010fl}
+\bibinfo{author}{Roberts, E.M.}, \bibinfo{author}{Pope, G.R.},
+  \bibinfo{author}{Newson, M.J.F.}, \bibinfo{author}{Lolait, S.J.},
+  \bibinfo{author}{O{\textquoteright}Carroll, A.M.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{The Vasopressin V1b Receptor Modulates Plasma
+  Corticosterone Responses to Dehydration-Induced Stress}}.
+\newblock \bibinfo{journal}{Journal of Neuroendocrinology}
+  \bibinfo{volume}{23}, \bibinfo{pages}{12--19}.
+%Type = Article
+\bibitem[{Sampson et~al.(2012)Sampson, Moritz and Denton}]{Sampson:2012hb}
+\bibinfo{author}{Sampson, A.K.}, \bibinfo{author}{Moritz, K.M.},
+  \bibinfo{author}{Denton, K.M.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Postnatal Ontogeny of Angiotensin Receptors and ACE2
+  in Male and Female Rats}}.
+\newblock \bibinfo{journal}{GENM} \bibinfo{volume}{9}, \bibinfo{pages}{21--32}.
+%Type = Article
+\bibitem[{Schmidt-Nielsen and Schmidt-Nielsen(1952)}]{SCHMIDTNIELSEN:1952wi}
+\bibinfo{author}{Schmidt-Nielsen, K.}, \bibinfo{author}{Schmidt-Nielsen, B.},
+  \bibinfo{year}{1952}.
+\newblock \bibinfo{title}{{Water metabolism of desert mammals 1.}}
+\newblock \bibinfo{journal}{Physiological reviews} \bibinfo{volume}{32},
+  \bibinfo{pages}{135--166}.
+%Type = Article
+\bibitem[{Shanmugam(1996)}]{Shanmugam:1996ed}
+\bibinfo{author}{Shanmugam, S.}, \bibinfo{year}{1996}.
+\newblock \bibinfo{title}{{Ontogeny of Angiotensin II Receptors}}.
+\newblock \bibinfo{journal}{Cell biology international} \bibinfo{volume}{20},
+  \bibinfo{pages}{169--176}.
+%Type = Article
+\bibitem[{Sikes et~al.(2011)Sikes, Gannon and {Animal Care and Use Committee of
+  the American Society of Mammalogists}}]{Sikes:2011dz}
+\bibinfo{author}{Sikes, R.S.}, \bibinfo{author}{Gannon, W.L.},
+  \bibinfo{author}{{Animal Care and Use Committee of the American Society of
+  Mammalogists}}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{Guidelines of the American Society of Mammalogists
+  for the use of wild mammals in research}}.
+\newblock \bibinfo{journal}{Journal of Mammalogy} \bibinfo{volume}{92},
+  \bibinfo{pages}{235--253}.
+%Type = Article
+\bibitem[{Silberstein et~al.(2004)Silberstein, Bouley, Huang, Fang,
+  Pastor-Soler, Brown and Van~Hoek}]{Silberstein:2004ex}
+\bibinfo{author}{Silberstein, C.}, \bibinfo{author}{Bouley, R.},
+  \bibinfo{author}{Huang, Y.}, \bibinfo{author}{Fang, P.},
+  \bibinfo{author}{Pastor-Soler, N.}, \bibinfo{author}{Brown, D.},
+  \bibinfo{author}{Van~Hoek, A.N.}, \bibinfo{year}{2004}.
+\newblock \bibinfo{title}{{Membrane organization and function of M1 and M23
+  isoforms of aquaporin-4 in epithelial cells.}}
+\newblock \bibinfo{journal}{American Journal of Physiology-Renal Physiology}
+  \bibinfo{volume}{287}, \bibinfo{pages}{F501--11}.
+%Type = Article
+\bibitem[{Sonna et~al.(2002)Sonna, Fujita, Gaffin and Lilly}]{Sonna:2002dc}
+\bibinfo{author}{Sonna, L.A.}, \bibinfo{author}{Fujita, J.},
+  \bibinfo{author}{Gaffin, S.L.}, \bibinfo{author}{Lilly, C.M.},
+  \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{{Invited review: Effects of heat and cold stress on
+  mammalian gene expression.}}
+\newblock \bibinfo{journal}{Journal of applied physiology}
+  \bibinfo{volume}{92}, \bibinfo{pages}{1725--1742}.
+%Type = Article
+\bibitem[{Teets et~al.(2012)Teets, Peyton, Colinet, Renault, Kelley,
+  Kawarasaki, Lee and Denlinger}]{Teets:2012gt}
+\bibinfo{author}{Teets, N.M.}, \bibinfo{author}{Peyton, J.T.},
+  \bibinfo{author}{Colinet, H.}, \bibinfo{author}{Renault, D.},
+  \bibinfo{author}{Kelley, J.L.}, \bibinfo{author}{Kawarasaki, Y.},
+  \bibinfo{author}{Lee, R.E.}, \bibinfo{author}{Denlinger, D.L.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Gene expression changes governing extreme
+  dehydration tolerance in an Antarctic insect.}}
+\newblock \bibinfo{journal}{PNAS} \bibinfo{volume}{109},
+  \bibinfo{pages}{20744--20749}.
+%Type = Article
+\bibitem[{Totsune et~al.(1994)Totsune, Takahashi, Murakami, Satoh, Sone, Saito,
+  Sasano, Mouri and Abe}]{Totsune:1994kf}
+\bibinfo{author}{Totsune, K.}, \bibinfo{author}{Takahashi, K.},
+  \bibinfo{author}{Murakami, O.}, \bibinfo{author}{Satoh, F.},
+  \bibinfo{author}{Sone, M.}, \bibinfo{author}{Saito, T.},
+  \bibinfo{author}{Sasano, H.}, \bibinfo{author}{Mouri, T.},
+  \bibinfo{author}{Abe, K.}, \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{Natriuretic peptides in the human kidney}}.
+\newblock \bibinfo{journal}{Hypertension} \bibinfo{volume}{24},
+  \bibinfo{pages}{758--762}.
+%Type = Article
+\bibitem[{Trapnell et~al.(2012)Trapnell, Roberts, Goff, Pertea, Kim, Kelley,
+  Pimentel, Salzberg, Rinn and Pachter}]{Trapnell:2012kp}
+\bibinfo{author}{Trapnell, C.}, \bibinfo{author}{Roberts, A.},
+  \bibinfo{author}{Goff, L.}, \bibinfo{author}{Pertea, G.},
+  \bibinfo{author}{Kim, D.}, \bibinfo{author}{Kelley, D.R.},
+  \bibinfo{author}{Pimentel, H.}, \bibinfo{author}{Salzberg, S.L.},
+  \bibinfo{author}{Rinn, J.L.}, \bibinfo{author}{Pachter, L.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Differential gene and transcript expression analysis
+  of RNA-seq experiments with TopHat and Cufflinks.}}
+\newblock \bibinfo{journal}{Nature Protocols} \bibinfo{volume}{7},
+  \bibinfo{pages}{562--578}.
+%Type = Article
+\bibitem[{Verkman(2002)}]{Verkman:2002ww}
+\bibinfo{author}{Verkman, A.S.}, \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{{Physiological importance of aquaporin water
+  channels}}.
+\newblock \bibinfo{journal}{Annals of medicine} \bibinfo{volume}{34},
+  \bibinfo{pages}{192--200}.
+%Type = Article
+\bibitem[{Weaver et~al.(1994)Weaver, Walker, Alcorn and
+  Skinner}]{Weaver:1994wv}
+\bibinfo{author}{Weaver, D.}, \bibinfo{author}{Walker, L.},
+  \bibinfo{author}{Alcorn, D.}, \bibinfo{author}{Skinner, S.},
+  \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{The contributions of renin and vasopressin to the
+  adaptation of the Australian spinifex hopping mouse (\textit{Notomys alexis})
+  to free water deprivation}}.
+\newblock \bibinfo{journal}{Comp. Biochem. Physio.} \bibinfo{volume}{108},
+  \bibinfo{pages}{107--116}.
+%Type = Article
+\bibitem[{Wintour and Moritz(1997)}]{Wintour:1997ts}
+\bibinfo{author}{Wintour, E.M.}, \bibinfo{author}{Moritz, K.M.},
+  \bibinfo{year}{1997}.
+\newblock \bibinfo{title}{{Comparative aspects of fetal renal development.}}
+\newblock \bibinfo{journal}{Equine veterinary journal. Supplement} ,
+  \bibinfo{pages}{51--58}.
+%Type = Article
+\bibitem[{Yukutake and Yasui(2010)}]{Yukutake:2010ia}
+\bibinfo{author}{Yukutake, Y.}, \bibinfo{author}{Yasui, M.},
+  \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{{Regulation of Water Permeability Through
+  Aquaporin-4}}.
+\newblock \bibinfo{journal}{NSC} \bibinfo{volume}{168},
+  \bibinfo{pages}{885--891}.
+%Type = Article
+\bibitem[{Zingg et~al.(1986)Zingg, Lefebvre and Almazan}]{Zingg:1986vb}
+\bibinfo{author}{Zingg, H.H.}, \bibinfo{author}{Lefebvre, D.},
+  \bibinfo{author}{Almazan, G.}, \bibinfo{year}{1986}.
+\newblock \bibinfo{title}{{Regulation of vasopressin gene expression in rat
+  hypothalamic neurons. Response to osmotic stimulation.}}
+\newblock \bibinfo{journal}{Journal of Biological Chemistry}
+  \bibinfo{volume}{261}, \bibinfo{pages}{12956--12959}.
+
+\end{thebibliography}
