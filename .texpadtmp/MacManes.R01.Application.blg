@@ -1,0 +1,65 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.Application.aux
+A level-1 auxiliary file: MacManes.R01.SpecificAims.aux
+A level-1 auxiliary file: MacManes.R01.SigInno.aux
+A level-1 auxiliary file: MacManes.R01.Approach.aux
+The style file: model2-names-edit.bst.bst
+Database file #1: formatted.bib.bib
+Repeated entry---line 1429 of file formatted.bib.bib
+ : @article{Nielsen:1995uq
+ :                        ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 26352 of file formatted.bib.bib
+ : 
+ : @article{Chesh:2012jd,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 44276 of file formatted.bib.bib
+ : 
+ : @article{Flatz:2010io,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 49 entries,
+            2990 wiz_defined-function locations,
+            977 strings with 16691 characters,
+and the built_in function-call counts, 39802 in all, are:
+= -- 2820
+> -- 2138
+< -- 18
++ -- 814
+- -- 765
+* -- 4804
+:= -- 5815
+add.period$ -- 147
+call.type$ -- 49
+change.case$ -- 500
+chr.to.int$ -- 49
+cite$ -- 49
+duplicate$ -- 2692
+empty$ -- 2592
+format.name$ -- 928
+if$ -- 7166
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 592
+newline$ -- 260
+num.names$ -- 196
+pop$ -- 985
+preamble$ -- 1
+purify$ -- 451
+quote$ -- 0
+skip$ -- 648
+stack$ -- 0
+substring$ -- 1720
+swap$ -- 2227
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 441
+warning$ -- 0
+while$ -- 234
+width$ -- 0
+write$ -- 699
+(There were 3 error messages)
