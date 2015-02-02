@@ -1,0 +1,224 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdftex 2013.5.30)  2 FEB 2015 06:42
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex
+(/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:36: Undefined control sequence.
+l.36 \noindent \textbf
+                      {SIGNIFICANCE} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:37: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.37 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:38: Undefined control sequence.
+l.38 ...come only more severe and as a result, \ul
+                                                  {research providing insigh...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:38: Undefined control sequence.
+l.38 ...ovide fodder for novel treatments. \textbf
+                                                  {The proposed work aims to...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:39: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.39 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ... dehydration are well characterized \citep
+                                                  {Roberts:2010fl}, some ani...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ...lete lack of extrinsic water intake \citep
+                                                  {NAGY:1994ta}. Specificall...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ... of uric acid crystals in the feces \citep
+                                                  {SCHMIDTNIELSEN:1952wi}. T...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ... traditional model organisms (e.g. \textit
+                                                  {Mus} and \textit{Rattus})...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ...l organisms (e.g. \textit{Mus} and \textit
+                                                  {Rattus}). Although model ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ...to be highly derived in some (e.g. \textit
+                                                  {Dipodomys} \citep{Huang:2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ...ed in some (e.g. \textit{Dipodomys} \citep
+                                                  {Huang:2001ti}), but not i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ...:2001ti}), but not in others (e.g. \textit
+                                                  {Notomys} \cite{Weaver:199...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ...not in others (e.g. \textit{Notomys} \cite
+                                                  {Weaver:1994wv}). No studi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ...rs underlie phenotype remains unknown. \ul
+                                                  {The proposed work effecti...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:40: Undefined control sequence.
+l.40 ...-adapted rodent, the cactus mouse (\textit
+                                                  {Peromyscus eremicus}), to...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:41: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.41 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (14.19034pt too wide) in paragraph at lines 40--41
+\tenrm While the mech-a-nisms un-der-ly-ing phys-i-o-log-i-cal com-pro-mise in de-hy-dra-tion are well char-ac-ter-ized Roberts:2010fl,|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm W
+.\tenrm h
+.\tenrm i
+.\tenrm l
+.\tenrm e
+.etc.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:47: Undefined control sequence.
+l.47 \noindent \textbf
+                      {INNOVATION} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+ 
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:48: Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.48 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:50: Undefined control sequence.
+l.50 ...modeled. The desert-adapted rodent \textit
+                                                  {P. eremicus} retains many...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/macmanes/Documents/Up2NIH/MacManes.SigInno.tex:51: Undefined control sequence.
+l.51 \begin
+           {itemize}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] )</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on /Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.SigInno.pdf (1 page, 25559 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

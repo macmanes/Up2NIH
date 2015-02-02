@@ -1,6 +1,8 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: /Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.Research.Proposal.aux
+A level-1 auxiliary file: MacManes.R01.SpecificAims.aux
+A level-1 auxiliary file: MacManes.R01.SigInno.aux
 The style file: model2-names-edit.bst.bst
 Database file #1: formatted.bib.bib
 Repeated entry---line 1429 of file formatted.bib.bib
@@ -20,7 +22,7 @@ I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 49 entries,
             2990 wiz_defined-function locations,
-            974 strings with 16617 characters,
+            976 strings with 16670 characters,
 and the built_in function-call counts, 39802 in all, are:
 = -- 2820
 > -- 2138
