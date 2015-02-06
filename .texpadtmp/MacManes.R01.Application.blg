@@ -4,51 +4,76 @@ The top-level auxiliary file: /Users/macmanes/Documents/Up2NIH/.texpadtmp/MacMan
 A level-1 auxiliary file: MacManes.R01.SpecificAims.aux
 A level-1 auxiliary file: MacManes.R01.SigInno.aux
 A level-1 auxiliary file: MacManes.R01.Approach.aux
-I couldn't open style file model2-names-edit.bst.bst
----line 23 of file /Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.Application.aux
- : \bibstyle{model2-names-edit.bst
- :                                }
-I'm skipping whatever remains of this command
-I found no style file---while reading file /Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.Application.aux
-You've used 49 entries,
-            0 wiz_defined-function locations,
-            186 strings with 2064 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
-format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
-num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+The style file: model2-names-edit.bst.bst
+Database file #1: formatted.bib.bib
+Repeated entry---line 1429 of file formatted.bib.bib
+ : @article{Nielsen:1995uq
+ :                        ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 26352 of file formatted.bib.bib
+ : 
+ : @article{Chesh:2012jd,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Illegal end of database file---line 38946 of file formatted.bib.bib
+ : title = {{Recombination rate variation in clo
+ :                                              
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Weaver:1994wv"
+Warning--I didn't find a database entry for "Brenet:2011dq"
+Warning--I didn't find a database entry for "Yukutake:2010ia"
+Warning--I didn't find a database entry for "Arsenijevic:1985bi"
+Warning--I didn't find a database entry for "Kwon:2009bv"
+Warning--I didn't find a database entry for "Verkman:2002ww"
+Warning--I didn't find a database entry for "Nielsen:1995cb"
+Warning--I didn't find a database entry for "Li:2013wn"
+Warning--I didn't find a database entry for "Trapnell:2012kp"
+Warning--I didn't find a database entry for "Langfelder:2008bd"
+Warning--I didn't find a database entry for "Pyrkosz:2013tm"
+Warning--I didn't find a database entry for "Jiang:2009bw"
+Warning--I didn't find a database entry for "Roberts:2012dh"
+Warning--I didn't find a database entry for "Sonna:2002dc"
+Warning--I didn't find a database entry for "Shanmugam:1996ed"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 34 entries,
+            2990 wiz_defined-function locations,
+            911 strings with 14361 characters,
+and the built_in function-call counts, 29504 in all, are:
+= -- 2036
+> -- 1716
+< -- 9
++ -- 652
+- -- 618
+* -- 3653
+:= -- 4318
+add.period$ -- 102
+call.type$ -- 34
+change.case$ -- 376
+chr.to.int$ -- 34
+cite$ -- 34
+duplicate$ -- 1933
+empty$ -- 1847
+format.name$ -- 730
+if$ -- 5270
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 442
+newline$ -- 185
+num.names$ -- 136
+pop$ -- 715
+preamble$ -- 1
+purify$ -- 342
 quote$ -- 0
-skip$ -- 0
+skip$ -- 446
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 1244
+swap$ -- 1669
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 306
 warning$ -- 0
-while$ -- 0
+while$ -- 165
 width$ -- 0
-write$ -- 0
-(There were 2 error messages)
+write$ -- 489
+(There were 3 error messages)
