@@ -6,74 +6,60 @@ A level-1 auxiliary file: MacManes.R01.SigInno.aux
 A level-1 auxiliary file: MacManes.R01.Approach.aux
 The style file: model2-names-edit.bst.bst
 Database file #1: formatted.bib.bib
-Repeated entry---line 1429 of file formatted.bib.bib
+Repeated entry---line 1436 of file formatted.bib.bib
  : @article{Nielsen:1995uq
  :                        ,
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 26352 of file formatted.bib.bib
+I was expecting a `,' or a `}'---line 26462 of file formatted.bib.bib
  : 
  : @article{Chesh:2012jd,
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Illegal end of database file---line 38946 of file formatted.bib.bib
- : title = {{Recombination rate variation in clo
- :                                              
+I was expecting a `,' or a `}'---line 44564 of file formatted.bib.bib
+ : 
+ : @article{Flatz:2010io,
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Weaver:1994wv"
-Warning--I didn't find a database entry for "Brenet:2011dq"
-Warning--I didn't find a database entry for "Yukutake:2010ia"
-Warning--I didn't find a database entry for "Arsenijevic:1985bi"
-Warning--I didn't find a database entry for "Kwon:2009bv"
-Warning--I didn't find a database entry for "Verkman:2002ww"
-Warning--I didn't find a database entry for "Nielsen:1995cb"
-Warning--I didn't find a database entry for "Li:2013wn"
-Warning--I didn't find a database entry for "Trapnell:2012kp"
-Warning--I didn't find a database entry for "Langfelder:2008bd"
-Warning--I didn't find a database entry for "Pyrkosz:2013tm"
-Warning--I didn't find a database entry for "Jiang:2009bw"
-Warning--I didn't find a database entry for "Roberts:2012dh"
-Warning--I didn't find a database entry for "Sonna:2002dc"
-Warning--I didn't find a database entry for "Shanmugam:1996ed"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 34 entries,
+You've used 49 entries,
             2990 wiz_defined-function locations,
-            911 strings with 14361 characters,
-and the built_in function-call counts, 29504 in all, are:
-= -- 2036
-> -- 1716
-< -- 9
-+ -- 652
-- -- 618
-* -- 3653
-:= -- 4318
-add.period$ -- 102
-call.type$ -- 34
-change.case$ -- 376
-chr.to.int$ -- 34
-cite$ -- 34
-duplicate$ -- 1933
-empty$ -- 1847
-format.name$ -- 730
-if$ -- 5270
+            977 strings with 16691 characters,
+and the built_in function-call counts, 39802 in all, are:
+= -- 2820
+> -- 2138
+< -- 18
++ -- 814
+- -- 765
+* -- 4804
+:= -- 5815
+add.period$ -- 147
+call.type$ -- 49
+change.case$ -- 500
+chr.to.int$ -- 49
+cite$ -- 49
+duplicate$ -- 2692
+empty$ -- 2592
+format.name$ -- 928
+if$ -- 7166
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 442
-newline$ -- 185
-num.names$ -- 136
-pop$ -- 715
+missing$ -- 592
+newline$ -- 260
+num.names$ -- 196
+pop$ -- 985
 preamble$ -- 1
-purify$ -- 342
+purify$ -- 451
 quote$ -- 0
-skip$ -- 446
+skip$ -- 648
 stack$ -- 0
-substring$ -- 1244
-swap$ -- 1669
+substring$ -- 1720
+swap$ -- 2227
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 306
+type$ -- 441
 warning$ -- 0
-while$ -- 165
+while$ -- 234
 width$ -- 0
-write$ -- 489
+write$ -- 699
 (There were 3 error messages)

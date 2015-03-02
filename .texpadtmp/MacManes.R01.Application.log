@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  6 FEB 2015 08:08
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  2 MAR 2015 08:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -970,9 +970,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
-
-
-Package natbib Warning: Citation `Weaver:1994wv' on page 2 undefined on input line 32.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 32--33
@@ -43842,35 +43839,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--98
  []
 
 
-Package natbib Warning: Citation `Brenet:2011dq' on page 6 undefined on input line 99.
-
-
-Package natbib Warning: Citation `Yukutake:2010ia' on page 6 undefined on input line 99.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Package natbib Warning: Citation `Arsenijevic:1985bi' on page 6 undefined on input line 101.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
-
-
-Package natbib Warning: Citation `Kwon:2009bv' on page 6 undefined on input line 103.
-
-
-Package natbib Warning: Citation `Verkman:2002ww' on page 6 undefined on input line 103.
-
-
-Package natbib Warning: Citation `Nielsen:1995cb' on page 6 undefined on input line 103.
-
-
-Package natbib Warning: Citation `Yukutake:2010ia' on page 6 undefined on input line 103.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 103--104
@@ -43883,35 +43859,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--106
  []
 
 
-Package natbib Warning: Citation `Li:2013wn' on page 7 undefined on input line 107.
-
-
-Package natbib Warning: Citation `Trapnell:2012kp' on page 7 undefined on input line 107.
-
-
-Package natbib Warning: Citation `Langfelder:2008bd' on page 7 undefined on input line 107.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
 
-Package natbib Warning: Citation `Pyrkosz:2013tm' on page 7 undefined on input line 109.
-
-
-Package natbib Warning: Citation `Jiang:2009bw' on page 7 undefined on input line 109.
-
-
-Package natbib Warning: Citation `Roberts:2012dh' on page 7 undefined on input line 109.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
-
-
-Package natbib Warning: Citation `Sonna:2002dc' on page 7 undefined on input line 111.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 111--112
@@ -43941,9 +43896,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--136
  []
 
 
-Package natbib Warning: Citation `Shanmugam:1996ed' on page 8 undefined on input line 137.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
@@ -43964,12 +43916,13 @@ LaTeX Font Warning: Font shape `EU1/Arial(0)/m/sc' undefined
 
 ) [9] (/Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.Application.bbl [1
 
-] [2])
-
-Package natbib Warning: There were undefined citations.
-
+]
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 273.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [2])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
-[3]
+ [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
  (/Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.Application.aux (/Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.SpecificAims.aux) (/Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.SigInno.aux) (/Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.Approach.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 45.
@@ -43981,12 +43934,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 23585 strings out of 493938
- 452813 string characters out of 6148857
- 492692 words of memory out of 5000000
- 26636 multiletter control sequences out of 15000+600000
- 7204 words of font info for 44 fonts, out of 8000000 for 9000
+ 23654 strings out of 493938
+ 454412 string characters out of 6148857
+ 493484 words of memory out of 5000000
+ 26700 multiletter control sequences out of 15000+600000
+ 7212 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 44i,6n,43p,73126b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,6n,43p,73126b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/macmanes/Documents/Up2NIH/.texpadtmp/MacManes.R01.Application.pdf (12 pages).
