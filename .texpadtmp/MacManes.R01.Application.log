@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  4 MAR 2015 15:01
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  29 MAY 2015 10:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1010,15 +1010,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
 
 ]
-./MacManes.R01.Approach.tex:53: Extra }, or forgotten \endgroup.
-l.53  ^^I\begin{center}}
-                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
@@ -1026,16 +1017,7 @@ Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 54 replaced by U+FFFD.
 File: species_water_intake.eps Graphic file (type eps)
-<species_water_intake.eps>
-./MacManes.R01.Approach.tex:55: Extra }, or forgotten \endgroup.
-l.55  ^^I\end{center}}
-                      
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
+ <species_water_intake.eps>
 ./MacManes.R01.Approach.tex:57: Missing } inserted.
 <inserted text> 
                 }
@@ -43999,7 +43981,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
 Here is how much of TeX's memory you used:
  23657 strings out of 493938
  454464 string characters out of 6148857
- 494501 words of memory out of 5000000
+ 495501 words of memory out of 5000000
  26702 multiletter control sequences out of 15000+600000
  7212 words of font info for 45 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
